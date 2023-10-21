@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}Who We Are}{2}{section.1}%
+\contentsline {section}{\numberline {2}Past Achievements}{2}{section.2}%
+\contentsline {section}{\numberline {3}Competitions}{2}{section.3}%
+\contentsline {section}{\numberline {4}What We Teach}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Cybersecurity Fundamentals}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Incident Response and Forensics}{3}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Network and Application Security}{3}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Ethical Hacking}{3}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Best Security Practices}{3}{section.5}%
+\contentsline {section}{\numberline {6}What We Need}{4}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Financial Contributions}{4}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Professional Coaching and Mentorship}{4}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Field and Work Experience}{4}{subsection.6.3}%
+\contentsline {section}{\numberline {7}How You Can Contribute}{5}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Donations}{5}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Mentors}{5}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Internship Opportunities}{5}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Conclusion}{5}{subsection.7.4}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

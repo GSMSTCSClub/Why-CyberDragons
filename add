@@ -1,0 +1,4 @@
+\maketitle
+\begin{tikzpicture}[overlay, remember picture]
+  \node[anchor=center, opacity=0.2] at ([yshift=-2cm]current page.center) {\includegraphics[width=2\paperwidth]{CyberDragons.png}};
+  \end{tikzpicture}

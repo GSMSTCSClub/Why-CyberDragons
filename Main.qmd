@@ -1,0 +1,124 @@
+---
+format: pdf
+pdf-engine: xelatex
+toc: true
+title: Why CyberDragons?
+toc-depth: 4
+toc-title: "Table of Contents"
+toc-location: body
+code-line-numbers: true
+number-sections: true
+mainfont: Inter
+sansfont: Inter
+author:
+- GSMST CyberDragons
+- GSMST Computer Science Club
+mathfont: Fira Math
+keep-tex: true
+colorlinks: true
+include-in-header:
+  text: |
+    \usepackage{amsmath, xparse}
+    \usepackage{fancyvrb, fvextra}
+    \usepackage{amssymb}
+    \usepackage{graphicx}
+    \usepackage{bm}
+    \usepackage{svg}
+    \usepackage{listings}
+    \usepackage{tikz}
+    \usepackage{multicol}
+    \usepackage{xifthen}
+    \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
+---
+
+{{< pagebreak >}}
+
+# Who We Are
+*CyberDragons* is a competitive cybersecurity organization from the Gwinnett School of Math, Science, and Technology (GSMST) seeking to nurture the next generation of ethical hacking professionals. Our dedication and relentless pursuit of knowledge in this ever-evolving field have set us apart from our competition, making us a force to be reckoned with. We take pride in building our members from the ground up, training them to excel at what they do.
+
+# Past Achievements
+- 7th nationally in picoCTF (2022)
+- 2nd nationally in CyberPatriot's Silver division (2022-2023)
+- 1st and 2nd in Georgia in CyberPatriot's Gold division (2022-2023)
+- 3 national CyberPatriot semifinalists (2022-2023)
+
+# Competitions
+- CyberPatriot
+- picoCTF
+- CSAW CTF
+- ASIS CTF
+- CyberStart America
+- DiceCTF
+- LA CTF
+- US Cyber Challenge: Cyber Quests
+- Lockheed Martin's CYBERQUEST
+- Technology Student Association Cybersecurity
+- Cyber Skyline's National Cyber League (NCL)
+- ÅngstromCTF
+- TJCTF
+
+# What We Teach
+
+## Cybersecurity Fundamentals
+- Operating system security and vulnerabilities
+- Cryptography and encryption techniques
+- Basic computer networks and protocols
+
+## Incident Response and Forensics
+- Detecting and responding to cybersecurity incidents
+- Digital forensics techniques and tools
+
+## Network and Application Security
+- Firewall configuration and management
+- Intrusion detection and prevention 
+- Network traffic monitoring and analysis
+- Writing secure code to prevent common threat vectors
+
+## Ethical Hacking
+- Hands-on experience with penetration testing tools such as Metasploit, Burp Suite, and Nmap
+- Exploiting common vulnerabilities such as SQL injection and XSS
+- Reverse engineering and binary exploitation techniques
+
+# Best Security Practices
+- Principle of least privilege
+- Common attack vectors and how to prevent them
+- How to secure your personal devices and accounts
+- Online safety and privacy tips
+- Awareness on phishing techniques and social engineering
+
+{{< pagebreak >}}
+
+# What We Need
+## Financial Contributions
+CyberDragons pride in its history of outstanding achievements in cybersecurity competitions. However, many of our dedicated competitors come from economically disadvantaged backgrounds, with many relying on Free and Reduced meal plans. The financial constraints associated with travel costs and entry fees limit our ability to send more than one team for many competitions. This limitation puts us at a significant disadvantage compared to schools with larger budgets.
+
+## Professional Coaching and Mentorship
+While our school lacks a dedicated cybersecurity program or courses, our team continues to excel and distinguish itself even against schools with such programs. However, we recognize that to reach our full potential, our students need guidance from experts in the field. Although our seminars and competitions provide valuable experience, having tutors and mentors would give us a competitive edge over other teams.
+
+## Field and Work Experience
+GSMST offers two experiential learning courses crucial for student graduation: the *Junior Fellowship Experience* and the *Senior Capstone Experience*. The Junior Fellowship Experience serves as an introduction to workforce and professional development and spans one semester. The Senior Capstone Experience represents the culmination of our students' high school journey, involving year-long collaboration with a partnering company.
+
+We believe our members would be outstanding interns in your company, especially in the realm of cybersecurity. Their passion and natural aptitude for the field, combined with real-world experience gained in your organization, would not only benefit them but also enrich your company with fresh perspectives and innovative ideas.
+
+{{< pagebreak >}}
+
+# How You Can Contribute
+## Donations
+By donating to CyberDragons, you would enable us to attend these competitions in person, which provides invaluable networking opportunities and enhanced learning experiences. Additionally, your contributions would allow us to send multiple teams to a variety of competitions, giving our talented students more opportunities to showcase their skills and compete at the highest level. If you wish to make a contribution, please make checks payable to *GSMST Computer Science Club* and send them to the following address:
+
+GSMST Computer Science Club
+970 McElvaney Ln NW,
+Lawrenceville, GA 30044.
+
+For any further inquiries regarding payment, please contact our adult sponsor [Julia Rachkovskiy](mailto:Julia.Rachkovskiy@gcpsk12.org).
+
+## Mentors
+We are also seeking mentors who can provide training in various aspects of cybersecurity, including ethical hacking, penetration testing, and offensive security techniques. Your employees' expertise and guidance could significantly enhance our team's skills and performance, ensuring our continued success in competitions. 
+
+## Internship Opportunities
+Finally, we kindly request your company to consider providing internship opportunities for our students. By taking them under your wing and teaching them cybersecurity and networking skills, you would be empowering the next generation of cybersecurity professionals while gaining dedicated and talented individuals to contribute to your organization's success.
+
+## Conclusion
+Your support, whether financial, mentorship, or internship opportunities, would greatly contribute to our mission of nurturing ethical hacking professionals and ensuring their success in competitions and beyond. Thank you for considering our partnership request in this educational endeavor.
+
+*-- GSMST CyberDragons*
