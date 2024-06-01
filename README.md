@@ -1,2 +1,2 @@
-# CyberDragons-Skills
- A repo for CyberDragons
+# Why CyberDragons?
+ A repo for CyberDragons outreach to potential mentors/companies
